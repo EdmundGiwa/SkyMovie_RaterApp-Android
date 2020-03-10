@@ -1,0 +1,68 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="successfulToast">
+        <item name="colorBackground">#70000000</item>
+        <item name="android:textColor">#fff</item>
+        <item name="iconLeft">@drawable/icons8_happy_96px</item>
+        <item name="length">LONG</item>
+        <item name="cornerRadius">6dp</item>
+    </style>
+
+    <style name="failedToast">
+        <item name="colorBackground">#70000000</item>
+        <item name="android:textColor">#fff</item>
+        <item name="iconLeft">@drawable/icons8_angry_96px</item>
+        <item name="length">LONG</item>
+        <item name="cornerRadius">6dp</item>
+    </style>
+
+    <style name="emptyToast">
+        <item name="colorBackground">#70000000</item>
+        <item name="android:textColor">#fff</item>
+        <item name="iconLeft">@drawable/icons8_error_96px</item>
+        <item name="length">LONG</item>
+        <item name="cornerRadius">6dp</item>
+    </style>
+
+    <style name="clickedToast">
+        <item name="colorBackground">#70000000</item>
+        <item name="android:textColor">#fff</item>
+        <item name="iconLeft">@drawable/icons8_movie_96px</item>
+        <item name="length">LONG</item>
+        <item name="cornerRadius">6dp</item>
+    </style>
+
+
+    <style name="rate_reviewToast">
+        <item name="colorBackground">#70000000</item>
+        <item name="android:textColor">#fff</item>
+        <item name="iconLeft">@drawable/icons8_rate_review_96px_1</item>
+        <item name="length">LONG</item>
+        <item name="cornerRadius">6dp</item>
+    </style>
+
+    <style name="password_not_matchToast">
+        <item name="colorBackground">#70000000</item>
+        <item name="android:textColor">#fff</item>
+        <item name="iconLeft">@drawable/icons8_password_1_96px</item>
+        <item name="length">LONG</item>
+        <item name="cornerRadius">6dp</item>
+    </style>
+
+    <style name="thanksToast">
+        <item name="colorBackground">#70000000</item>
+        <item name="android:textColor">#fff</item>
+        <item name="iconLeft">@drawable/icons8_applause_100px_1</item>
+        <item name="length">LONG</item>
+        <item name="cornerRadius">6dp</item>
+    </style>
+
+</resources>

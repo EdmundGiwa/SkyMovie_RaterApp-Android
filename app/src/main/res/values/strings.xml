@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SkyMovieRater</string>
+    <string name="test_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, aperiam consectetur! Esse laborum officia molestias nihil, architecto fuga ducimus quasi, possimus eligendi alias aspernatur officiis similique doloremque inventore sequi fugit.
+</string>
+    <string name="error_message">Field is Empty</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="mail_exists">mail Already Exist</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="error_email_exists">Email Already Exist</string>
+    <string name="error_password_match">Password Does Not Match</string>
+    <string name="error_valid_email_password">Wrong Password or Email</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirmpassword">ConfirmPassword</string>
+    <string name="alita">Ksjdklasjdosjpidsod</string>
+    <string name="hobbs_shaw"></string>
+    <string  name="aladdin"></string>
+    <string name="hellboy"></string>
+    <string name="endgame"></string>
+    <string name="shazam"></string>
+    <string  name="johnwick"></string>
+    <string name="aquaman"></string>
+    <string name="captainmarvel"></string>
+    <string name="booksmart"></string>
+    <string name="fight_with_my_family"></string>
+    <string name="frozen_two"></string>
+    <string name="into_the_universe"></string>
+    <string name="spiderman_homecoming"></string>
+    <string name="godzilla"></string>
+
+</resources>
